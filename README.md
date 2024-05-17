@@ -1,7 +1,7 @@
-# MinecraftAnniversaryRewards
+# Minecraft 15th Anniversary Rewards
 Guide to claiming the rewards for Minecraft's 15th Anniversary
 
-Contributor Guide - Repo
+Contributor Guide (coming soon!) - [Repo](https://github.com/KTrain5169/MinecraftAnniversaryRewards)
 
 This is still a WIP, so help by opening Pull Requests!
 Current guides:
