@@ -10,6 +10,7 @@ Tips:
 * You can leave the tab in the background and the volume set to 1%.
 * Try and actually engage with the stream if you want this process to be fun. Ask around, reply to messages, whatnot.
 * Some channels have a bot that marks your watch time (like StreamElements). You can do the bot's watch time command to check, however be aware that this isn't always helpful especially if you've watched the streamer before. Also, the watchtime count rounds down in 10m intevals, so if you see 0m watchtime, you're between 0m-9m59s watchtime, seeing 10m watchtime means you're between 10m-19m59s watchtime, and so on.
+* Following isn't necessary, but it does (for some reason) update Twitch faster that you are, in fact, watching the stream.
 ## Step 3: Claim your cape
 Once you get the notification saying the cape is available, click on it, or if you missed it click on the `Inventory` button. From there, you'll be directed to claim the cape, after which a code appears.
 
