@@ -19,4 +19,4 @@ Go to https://minecraft.net/redeem, then input the code into the box **WITHOUT T
 ## Notes
 * Twitch isn't handling this very well. If you don't get the notification for even a couple hours, that appears to be normal as of right now. Gotta be patient. (If you're on mobile, refreshing apparently helps).
 * You can do this with multiple Twitch accounts for your Minecraft alts, if you have any.
-* This cape will be available immediately for Bedrock players and on June 8th for Java players.
+* This cape will be available immediately for Bedrock players and on July 8th for Java players.
