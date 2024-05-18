@@ -20,5 +20,5 @@ Once you get a notification saying you can claim the cape, click on the notifica
 
 Notes:
 * This is a very new development, so keep an eye out for updates.
-* This is potentially region-locked, we're not sure if this is 100% true yet.
+* ~~This is potentially region-locked, we're not sure if this is 100% true yet.~~ Apparently only Aussies can't get it. Why? I don't know.
 * This cape is available in Bedrock Edition immediately, and in Java Edition on July 8th.
