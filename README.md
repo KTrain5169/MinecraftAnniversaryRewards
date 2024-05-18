@@ -10,10 +10,10 @@ Current guides:
 * [Tiktok Cape](./tiktok/cape.md)
 * [Minecraft 15th Anniversary Cape](./15thanniversary.md)
 
-Cape designs:
+Cape designs [(source)](https://imgur.com/minecraft-15th-cape-preview-wUMmNEM):
 
 ![image](https://github.com/KTrain5169/MinecraftAnniversaryRewards/assets/69028025/d212355e-3d61-4e76-bedf-f47e23ffeec5)
 
-Elytra designs:
+Elytra designs [(source)](https://imgur.com/minecraft-15th-elytra-preview-6tDU839):
 
 ![image](https://github.com/KTrain5169/MinecraftAnniversaryRewards/assets/69028025/7ca99347-044d-4d90-b183-043b05acd4ff)
