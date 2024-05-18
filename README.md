@@ -11,4 +11,5 @@ Current guides:
 * [Minecraft 15th Anniversary Cape](./15thanniversary.md)
 
 Cape designs:
+
 ![image](https://github.com/KTrain5169/MinecraftAnniversaryRewards/assets/69028025/d212355e-3d61-4e76-bedf-f47e23ffeec5)
