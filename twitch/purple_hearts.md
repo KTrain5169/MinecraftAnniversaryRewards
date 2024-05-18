@@ -2,6 +2,13 @@
 
 This guide is focused on obtaining the Twitch Purple Hearts cape.
 
+![image](https://github.com/KTrain5169/MinecraftAnniversaryRewards/assets/69028025/dee961db-4553-4b26-a753-c01cb3111404)
+
+![image](https://github.com/KTrain5169/MinecraftAnniversaryRewards/assets/69028025/0b6fd407-d0c0-4ef6-bbe1-726f99b6a56c)
+
+![image](https://github.com/KTrain5169/MinecraftAnniversaryRewards/assets/69028025/a3fdb62d-23b8-465f-adc5-adaab2ca35df)
+
+
 ## Step 1: Join a Minecraft Twitch stream
 Go to https://twitch.tv/ and log in (if you have an account already) or sign up (if you don't). Then, go to `Browse` and click on the `Minecraft` category. Click on a streamer, and **check to see if there is a checkmark next to their name**. This is important because Twitch directly states that you must watch a partnered or Affiliate channel streaming Minecraft to get the reward.
 ## Step 2: Start the timer
