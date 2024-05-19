@@ -14,7 +14,7 @@ Navigate to https://tiktok.com/ and create an account or log in.
 ## Step 2: Start watching a Minecraft stream
 Search "minecraft" in the upper search bar, and click on the `LIVE` tab. Then, choose a streamer.
 ## Step 3: Activate TikTok systems
-In order to set off the flag that counts down the timer, send a message in the TikTok chat (and maybe follow the streamer), then start watching. The watch count is between 3-15 minutes, so stick around for a while.
+In order to set off the flag, send the word "Minecraft" in the chat, and a notification should appear saying you are able to get a cape!
 ## Step 4: Claim the cape
 Once you get a notification saying you can claim the cape, click on the notification, you should get a code. Open a new tab and type https://minecraft.net/redeem, then paste in the code and click `Redeem`. Then, follow on-screen instructions.
 
