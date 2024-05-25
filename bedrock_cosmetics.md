@@ -20,7 +20,7 @@ If not already installed, install Minecraft using the following steps:
 
 </details>
 
-**Linux & Mac users, please note these option are not available to you.**
+**Linux & Mac users, please note these option are not available to you as Bedrock Edition is not available on those platforms.**
 ## Step 2: Log in
 Click the `Log in` button on the left side, then log in to your Microsoft account.
 ## Step 3: Claim the cosmetics
@@ -30,13 +30,13 @@ Once logged in, click the Marketplace button, then click on the 15th Anniversary
 * Day 1: Cave Game Hoodie
 * Day 2: Crafting Cap
 * Day 3: Ender Hood
-* Day 4: ???
-* Day 5: ???
-* Day 6: ???
-* Day 7: ???
-* Day 8: ???
-* Day 9: ???
-* Day 10: ???
+* Day 4: Emerald Expert (Coat I think)
+* Day 5: Redstone Coat
+* Day 6: Toe Guardians
+* Day 7: Fleece Friends (Hoodie I think)
+* Day 8: Llama Hat
+* Day 9: Parrot Slippers
+* Day 10: Coral Blouse
 * Day 11: ???
 * Day 12: ???
 * Day 13: ???
