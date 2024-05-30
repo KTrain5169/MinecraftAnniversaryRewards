@@ -37,8 +37,8 @@ Once logged in, click the Marketplace button, then click on the 15th Anniversary
 * Day 8: Llama Hat
 * Day 9: Parrot Slippers
 * Day 10: Coral Blouse
-* Day 11: ???
-* Day 12: ???
-* Day 13: ???
-* Day 14: ???
-* Day 15: ???
+* Day 11: Bee Boots
+* Day 12: Nether Pants
+* Day 13: Cozy Cave Dress
+* Day 14: Allay Bandana
+* Day 15: Cherry Shawl
